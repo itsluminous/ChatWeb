@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/github/license/Niek/chatgpt-web)](/LICENSE)
 [![All Contributors](https://img.shields.io/github/all-contributors/Niek/chatgpt-web?color=ee8449&style=flat-square)](#contributors)
 
-## **URL**: <https://niek.github.io/chatgpt-web/>
+## **URL**: <https://itsluminous.github.io/chatweb/>
 
 ![Screenshot of ChatGPT-web](.github/screenshot.png)
 
